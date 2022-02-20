@@ -26,7 +26,7 @@ def solution(n, lost, reserve):
     return borrow+already;
 ```
     
-    조이스틱
+조이스틱
     
 ```python
     def solution(name):
@@ -54,7 +54,7 @@ def solution(n, lost, reserve):
     return num
 ```
     
-    큰 수 만들기
+큰 수 만들기
 ```python
     def solution(number, k):
     
@@ -76,8 +76,7 @@ def solution(n, lost, reserve):
     
     return number
 ```
-    
-    구명보트
+구명보트
     
 ```python
     def solution(people, limit):
