@@ -24,11 +24,11 @@ def solution(n, lost, reserve):
         
     
     return borrow+already;
-    ```
+```
     
     조이스틱
     
-    ```python
+```python
     def solution(name):
     num = 0
 
@@ -52,10 +52,10 @@ def solution(n, lost, reserve):
             
             
     return num
-    ```
+```
     
     큰 수 만들기
-    ```python
+```python
     def solution(number, k):
     
     k = int(k)
@@ -75,11 +75,11 @@ def solution(n, lost, reserve):
 
     
     return number
-    ```
+```
     
     구명보트
     
-    ```python
+```python
     def solution(people, limit):
     
     num =0
