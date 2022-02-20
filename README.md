@@ -89,7 +89,11 @@ def solution(n, lost, reserve):
         for j in range(len(people)-1):
             if people[j+1]<=left:
                 i = i+1
- ```           
+ ```     
+ 
+ 
+ 정렬 알고리즘 정리한 벨로그 링크
+ https://velog.io/@ywtv3636/%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
     
    
     
